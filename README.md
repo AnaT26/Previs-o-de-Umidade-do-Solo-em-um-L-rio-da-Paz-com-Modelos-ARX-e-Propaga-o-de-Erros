@@ -1,1 +1,1 @@
-# Previs-o-de-Umidade-do-Solo-em-um-L-rio-da-Paz-com-Modelos-ARX-e-Propaga-o-de-Erros
+Este trabalho apresenta a modelagem da umidade do solo de um Lírio da Paz (Spathiphyllum) com sensores conectados a um ESP32. Utilizamos modelos ARX (AutoRegressivos com Variáveis Exógenas) para prever a umidade com antecedência. Também abordamos a propagação de erros com base no desvio padrão das medições. Mostramos os desafios enfrentados ao lidar com dados com descontinuidades provocadas por irrigações.
